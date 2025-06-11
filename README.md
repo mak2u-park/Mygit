@@ -67,8 +67,7 @@ Assets/
 ## 개발 환경
 
 * **엔진**: Unity 2022.3.17f1 (LTS)
-* **언어**: C#, Batchfile
-* **IDE**: Visual Studio, JetBrains Rider
-* **협업 도구**: GitHub, draw\.io
+* **언어**: C#
+* **IDE**: JetBrains Rider
 
 ---
